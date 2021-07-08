@@ -21,3 +21,14 @@ body {
 #home-section .home-inner{
     padding-top: 150px;
 }
+
+#explore-section .fas , #share-section .fas {
+    background: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
